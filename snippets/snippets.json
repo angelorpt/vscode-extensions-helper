@@ -1,0 +1,19 @@
+{
+	"Snippet": {
+        "prefix": "ext::snippets",
+        "scope": "json,jsonc,code-snippets",
+		"body": [
+			"\"${1:Snippet Name}\": {",
+			"\t\"prefix\": \"${2:code}\",",
+			"\t\"scope\": \"${3:javascript,html}\",",
+			"\t\"body\": [",
+			"\t\t\"row1\",",
+			"\t\t\"\\trow2\",",
+			"\t\t\"row3\"",
+			"\t],",
+			"\t\"description\": \"${4:Description of your snippet}\"",
+			"}"
+		],
+		"description": "Default Body to Snippets"
+    }
+}
