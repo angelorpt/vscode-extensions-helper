@@ -1,7 +1,7 @@
 {
 	"Snippet": {
         "prefix": "ext::snippets",
-        "scope": "json,jsonc,code-snippets",
+        "scope": "json,jsonc",
 		"body": [
 			"\"${1:Snippet Name}\": {",
 			"\t\"prefix\": \"${2:code}\",",

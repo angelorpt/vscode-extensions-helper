@@ -1,6 +1,6 @@
 {
 	"name": "vscode-extensions-helper",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "angelorafael",
 	"author": {
 		"name": "Angelo Rafael"
@@ -35,7 +35,7 @@
 				"path": "./snippets/snippets.json"
 			},
 			{
-				"language": "code-snippets",
+				"language": "jsonc",
 				"path": "./snippets/snippets.json"
 			}
 		]
