@@ -1,8 +1,8 @@
 # Change Log
 
-All notable changes to the "VSCode Extension Helper" extension will be documented in this file.
+## 1.0.2 [2020, 28 June]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+* Add support to 10 indentation levels
 
 ## 1.0.1 [2020, 13 June]
 

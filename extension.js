@@ -33,11 +33,12 @@ function activate(context) {
 			rows.forEach((item, index) => {
 				item = item.replace(/\\"/g , '\"')
 				item = item.replace(/\"/g  , '\\"')
+				// item = item.replace(/\t"/g , '    ')
 				item = item.replace(/\$/g  , '\\$')
 				item = item.replace(/\n/g  , '')
 				item = item.replace(/\r/g  , '')
 
-				for (let i = 0; i < 5; i++) {
+				for (let i = 0; i < 10; i++) {
 					item = item.replace('    ', '\\t')
 				}
 				
